@@ -1,0 +1,15 @@
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0\HotelManagementSystem.exe
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0\HotelManagementSystem.deps.json
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0\HotelManagementSystem.runtimeconfig.json
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0\HotelManagementSystem.dll
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\bin\Debug\net6.0\HotelManagementSystem.pdb
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.AssemblyInfoInputs.cache
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.AssemblyInfo.cs
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.dll
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\refint\HotelManagementSystem.dll
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.pdb
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\HotelManagementSystem.genruntimeconfig.cache
+C:\Users\herbe\OneDrive\Desktop\HotelManagementSystem\HotelManagementSystem\obj\Debug\net6.0\ref\HotelManagementSystem.dll
