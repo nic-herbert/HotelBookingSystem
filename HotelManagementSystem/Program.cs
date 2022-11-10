@@ -1,13 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-//using System.Runtime.CompilerServices;
-
-
-
-
+﻿
 using HotelManagementSystem;
-using System.Collections.Generic;
 using System.Text.RegularExpressions;
-using static System.Net.WebRequestMethods;
 
 Console.WriteLine("Choose an option:");
 Console.WriteLine("1) Book reservation");
