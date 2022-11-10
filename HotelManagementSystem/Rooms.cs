@@ -14,7 +14,7 @@ namespace HotelManagementSystem
         KingSuite
 
     }
-    internal class Room
+    public class Rooms
     {
         public RoomType roomType;
         public bool isReserved;
