@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelManagementSystem
 {
-    enum RoomType
+    public enum RoomType
     {
         SingleBed,
         DoubleBed,
@@ -14,7 +14,7 @@ namespace HotelManagementSystem
         KingSuite
 
     }
-    public class Rooms
+    public class Room
     {
         public RoomType roomType;
         public bool isReserved;
