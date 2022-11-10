@@ -20,6 +20,8 @@ namespace HotelManagementSystem
         public bool isReserved;
         public string roomNumber;
         public int floorNumber;
+        public string contactEmail;
 
     }
+
 }
